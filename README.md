@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Password Generator
 
 ## Description
@@ -46,3 +47,6 @@ Generated Password: A#8dP@2mQ!
 - Strings
 - Loops
 - Random password generation
+=======
+
+>>>>>>> 56da5fcfbbbdac7f3ab07811f445731519177e78
